@@ -1,0 +1,11 @@
+.profilePic {
+    margin-left: 38%;
+    margin-right: 42%;
+    margin-top: -18%;
+    border: 4px solid rgb(139, 139, 241);    
+}
+
+
+.caption {
+    max-width: 327px;
+}
